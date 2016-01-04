@@ -1,8 +1,8 @@
 # Hit-Man
-A very simple mp3 player controlled by a pice of paper..
+A very simple mp3 player controlled by a pice of paper.
 The goal was to starting with computer vision and OpenCV.
 
-# Preperation:
+# Preperation
 <ol>
 <li>Print radio.pdf</li>
 <li>Focus with your webcam the printed radio.pdf</li>
@@ -10,3 +10,6 @@ The goal was to starting with computer vision and OpenCV.
 <li>Make sure you use the right rgb-colors..</li>
 <li>Start the program and enjoy the music..</li>
 </ol>
+
+# Optimization
++ Change button touched triggering
