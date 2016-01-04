@@ -1,7 +1,7 @@
 # Hit-Man
 A very simple mp3 player controlled by a pice of paper.  
 The goal of this project was to get started with computer vision and OpenCV.  
-Before this project I didn't do something with computer vision.
+Before this project I didn't do something with computer vision.  
 For me this project is just a warm up.
 
 # Preperation
