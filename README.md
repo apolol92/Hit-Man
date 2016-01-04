@@ -13,3 +13,4 @@ The goal of this project was to get started with computer vision and OpenCV.
 
 # Optimization
 + Change button touched triggering
++ Automatic button detection without choosing RGB-COlOR
